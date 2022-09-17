@@ -9,7 +9,6 @@ This purpose of this analysis was to clean and organize student data from a vari
 (![per_school_summary](https://user-images.githubusercontent.com/111502918/190870944-75112e4c-68d3-4568-a44a-37ed62ec378e.PNG)
 
   - Math Scores by Grade
- ![Math_Scores By Grade]
  (![math_scores_by_grade](https://user-images.githubusercontent.com/111502918/190870981-e2807b0b-2868-4cae-b08b-0d8ae548be86.PNG)
  
   - Reading Scores by Grade
