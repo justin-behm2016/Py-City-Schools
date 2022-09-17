@@ -5,19 +5,25 @@ This purpose of this analysis was to clean and organize student data from a vari
 - District Summary 
 ![District Summary](![District_summary](https://user-images.githubusercontent.com/111502918/190870927-d3009791-125e-4dc9-ab1b-a433f0e99828.PNG)
 - School Summary & THS Performance Compared to Other Schools
-![School Summary](![per_school_summary](https://user-images.githubusercontent.com/111502918/190870944-75112e4c-68d3-4568-a44a-37ed62ec378e.PNG)
+![School Summary]
+(![per_school_summary](https://user-images.githubusercontent.com/111502918/190870944-75112e4c-68d3-4568-a44a-37ed62ec378e.PNG)
 
   - Math Scores by Grade
- ![Math_Scores By Grade](![math_scores_by_grade](https://user-images.githubusercontent.com/111502918/190870981-e2807b0b-2868-4cae-b08b-0d8ae548be86.PNG)
+ ![Math_Scores By Grade]
+ (![math_scores_by_grade](https://user-images.githubusercontent.com/111502918/190870981-e2807b0b-2868-4cae-b08b-0d8ae548be86.PNG)
  
   - Reading Scores by Grade
- ![Reading Scores By Grade](![reading_scores_by_grade](https://user-images.githubusercontent.com/111502918/190871021-deb3ce6f-5801-4cfc-95a9-6e5e2acf64fd.PNG)
+ ![Reading Scores By Grade]
+ (![reading_scores_by_grade](https://user-images.githubusercontent.com/111502918/190871021-deb3ce6f-5801-4cfc-95a9-6e5e2acf64fd.PNG)
  
   - Scores by Spending 
- ![Scores By Spending](![scores_by_spending](https://user-images.githubusercontent.com/111502918/190871045-5a89844b-01d7-4b67-8905-5af5f01439e4.PNG)
+ ![Scores By Spending]
+ (![scores_by_spending](https://user-images.githubusercontent.com/111502918/190871045-5a89844b-01d7-4b67-8905-5af5f01439e4.PNG)
  
   - Scores by Size
- ![Scores By Size](![scores_by_size](https://user-images.githubusercontent.com/111502918/190871072-03ed611b-1f32-47c4-9d43-c0c2ffcff414.PNG)
+ ![Scores By Size]
+ (![scores_by_size](https://user-images.githubusercontent.com/111502918/190871072-03ed611b-1f32-47c4-9d43-c0c2ffcff414.PNG)
  
   - Scores by Type
- ![Scores By Type](![scores_by_type](https://user-images.githubusercontent.com/111502918/190871090-36b0bc7e-7299-41c9-9da3-94c2202a720a.PNG)
+ ![Scores By Type]
+ (![scores_by_type](https://user-images.githubusercontent.com/111502918/190871090-36b0bc7e-7299-41c9-9da3-94c2202a720a.PNG)
